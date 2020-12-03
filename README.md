@@ -1,9 +1,9 @@
 # libsecp256k1-LazyBuilds
-Basic repo with periodic Windows builds of libsecp256k1 (For use with Electrum when running directly from source) They have been built with the make_libsecp256k1.sh that comes bundled with Electrum which produces libsecp256k1-0.dll
+Basic repo with periodic Windows builds of libsecp256k1 (For use with Electrum when running directly from source) They have been built with the make_libsecp256k1.sh that comes bundled with Electrum which produces libsecp256k1-0.dll (Source Repo: https://github.com/spesmilo/electrum)
 
-These files have been tested to "just work" with Electrum when running from source. The are provided mostly for those who want them for recovery, testing or development.
+These files have been tested to "just work" with Electrum when running from source and should also work with other altcoin forks of Electrum (Eg: Electrum-LTC). The are provided mostly for those who want them for recovery, testing or development.
 
-_If you are not using a hardware wallet, or are using them for other security critical purposes, please consider building your own copies from soruce..._
+_If you are not using a hardware wallet, or are using them for other security critical purposes, please consider building your own copies from source..._
 
 ## Installation:
 
