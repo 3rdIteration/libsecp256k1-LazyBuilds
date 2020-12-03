@@ -1,5 +1,5 @@
 # libsecp256k1-LazyBuilds
-Basic repo with periodic Windows builds on libsecp256k1 (For use with Electrum when running directly from source)
+Basic repo with periodic Windows builds of libsecp256k1 (For use with Electrum when running directly from source) They have been built with the make_libsecp256k1.sh that comes bundled with Electrum which produces libsecp256k1-0.dll
 
 These files have been tested to "just work" with Electrum when running from source. The are provided mostly for those who want them for recovery, testing or development.
 
